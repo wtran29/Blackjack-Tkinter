@@ -4,7 +4,7 @@
 * Simple Blackjack game made from Tkinter Gui. 
 * blackjack.py contains the methods to load the card images, deal cards, keep score, start a new game, and shuffle deck.
 * setup.py is currently a WIP script to make the Blackjack game an executable file.
-* The deck of cards were made available by http://svg-cards.sourceforge.net/
+* The card images were made available by http://svg-cards.sourceforge.net/
 
 ![Screenshot](https://github.com/wtran29/Blackjack-Tkinter/blob/master/win.PNG)
 
